@@ -245,10 +245,5 @@ See `slides/presentation.md` for a 5-slide presentation covering:
 - **GANs**: Goodfellow et al., "Generative Adversarial Networks"
 - **Frame Interpolation**: Various papers on video frame interpolation with GANs
 
-## License
 
-[Specify your license here]
 
-## Contact
-
-[Your contact information]
